@@ -139,3 +139,178 @@
   139  ls
   140  history
   141  history > linux_command.txt
+    1  su -
+    2  java --version
+    3  mvn --version
+    4  su 
+    5  mvn --version
+    6  mvn install
+    7  ls
+    8  cd target/
+    9  ls
+   10  java -jar java_spring-0.0.1-SNAPSHOT.jar 
+   11  cd ..
+   12  java -jar java_spring-0.0.1-SNAPSHOT.jar 
+   13  cd target/
+   14  ls
+   15  java -jar java_spring-0.0.1-SNAPSHOT.jar 
+   16  cd ..
+   17  git --version
+   18  git remote -v
+   19  git init
+   20  git status
+   21  git add .
+   22  git status
+   23  git commit -m "1st code spring java"
+   24  git status
+   25  git remote add help
+   26  git remote add origin https://github.com/mir-owahed/test-private-repo.git
+   27  git remote -v
+   28  git push origin main
+   29  git push -u origin main
+   30  git config --global init.defaultBranch main
+   31  git push -u origin main
+   32  git push 
+   33  git push --set-upstream origin main
+   34  git config credential.username "mir-owahed"
+   35  git config --global user.name "Mir Ali"
+   36  git config --global user.email bachchu333@gmail.com 
+   37  git config --global init.defaultBranch main
+   38  git push -u origin main
+   39  git push
+   40  git push --set-upstream origin master
+   41  git push --set-upstream origin main
+   42  git push --set-upstream origin master
+   43  git push --set-upstream origin main
+   44  git push -u origin main
+   45  git remote add https://github.com/mir-owahed/test-private-repo.git
+   46  git remote add origin https://github.com/mir-owahed/test-private-repo.git
+   47  git push -u 
+   48  git push -u origin main
+   49  git branch -M main
+   50  git push -u origin main
+   51  git pull origin main
+   52  git push -u origin main
+   53  git pull --rebase origin main
+   54  su
+   55  cd Downloads/
+   56  ls
+   57  cd java_spring/
+   58  code .
+   59  cd ..
+   60  ls
+   61  tar xvfz apache-maven-3.9.5-bin.tar.gz 
+   62  ls
+   63  cd apache-maven-3.9.5/
+   64  ls
+   65  cd bin/
+   66  ls
+   67  mvn
+   68  docker ps
+   69  docker stop 89859fa31209
+   70  docker ps
+   71  ls
+   72  cd target/
+   73  ls
+   74  java -jar java_spring-0.0.1-SNAPSHOT.jar 
+   75  cd ..
+   76  ls
+   77  mvn install
+   78  ls
+   79  cd target/
+   80  ls
+   81  java -jar java_spring-0.0.1-SNAPSHOT.jar 
+   82  cd ..
+   83  mvn clean package
+   84  ls
+   85  cd target/
+   86  ls
+   87  java -jar java_spring-0.0.1-SNAPSHOT.jar 
+   88  cd ..
+   89  git status
+   90  git init
+   91  git status
+   92  git remote -v
+   93  git status
+   94  git add .
+   95  git status
+   96  git commit -m "deleted hello"
+   97  git push -u origin main
+   98  git log
+   99  ls
+  100  cd Downloads/
+  101  ls
+  102  cd java_spring/
+  103  ls
+  104  git init
+  105  git status
+  106  git remote -v
+  107  git remote add origin https://github.com/mir-owahed/spring-java-1st-code.git
+  108  git remote -v
+  109  git remote set-url origin https://github.com/mir-owahed/spring-java-1st-code.git
+  110  git remote -v
+  111  git branch -M main
+  112  git push -u origin main
+  113  git status
+  114  git remote -v
+  115  git commit -m "1st java code"
+  116  git log
+  117  git config --global init.defaultBranch main
+  118  git push --set-upstream origin main
+  119  git remote add origin https://github.com/mir-owahed/spring-java-1st-code.git
+  120  git branch -M main
+  121  git push -u origin main
+  122  ls
+  123  nano README.md 
+  124  git status
+  125  git commit -a -m "readme edited"
+  126  git status
+  127  git remote -v
+  128  git push -u origin main
+  129  git log
+  130  code .
+  131  docker ps
+  132  docker stop 89859fa31209
+  133  ls
+  134  cd Documents/
+  135  ls
+  136  git clone https://github.com/mir-owahed/linux.git
+  137  ls
+  138  cd linux
+  139  ls
+  140  history
+  141  history > linux_command.txt
+  142  ls
+  143  git init
+  144  git status
+  145  git add .
+  146  git status
+  147  git commit -m "linux_commands file added"
+  148  git remote -v
+  149  git branch -M main
+  150  git push -u origin main
+  151  ls
+  152  mkdir linux_command
+  153  ls
+  154  mv linux_command.txt linux_command
+  155  ls
+  156  git commit -a -m "move file into folder"
+  157  git status
+  158  git add .
+  159  git commit -m "move file into folder"
+  160  git status
+  161  git push -u origin main
+  162  cd..
+  163  cd ..
+  164  ls
+  165  git clone https://github.com/mir-owahed/spring-java-1st-code.git
+  166  ls
+  167  cd spring-java-1st-code/
+  168  git status
+  169  ls
+  170  history
+  171  cd ..
+  172  ls
+  173  cd linux
+  174  ls
+  175  history >> linux_command/linux_command.txt 
