@@ -1,0 +1,327 @@
+    1  su -
+    2  sudo su
+    3  su -
+    4  git init
+    5  git status
+    6  git add .
+    7  git status
+    8  git commit -m "install_prometheus"
+    9  git config --global user.name "Mir Ali" 
+   10  git config --global user.email bachchu333@gmail.com 
+   11  git config --global init.defaultBranch Main
+   12  git remote add origin https://github.com/mir-owahed/prometheus.git
+   13  git remote -v
+   14  git push origin main
+   15  git push --set-upstream origin main
+   16  git push -u origin main
+   17  git config credential.username "mir-owahed"
+   18  git push -u origin main
+   19  git remote add origin https://github.com/mir-owahed/prometheus.git
+   20  git remote -v
+   21  git push --set-upstream origin main
+   22  git push --set-upstream origin 
+   23  git push --set-upstream origin master
+   24  history
+   25  history > git_setup.txt
+   26  git status
+   27  git add prometheus_install/git_setup.txt 
+   28  git status
+   29  git commit -m "git_setup added"
+   30  git remote -v
+   31  git push --set-upstream origin 
+   32  git push --set-upstream origin master
+   33  git push -u origin main
+   34  git remote add origin https://github.com/mir-owahed/prometheus.git
+   35  git remote -v
+   36  git push origin main
+   37  git push origin
+   38  git push --set-upstream origin master
+   39  git clone https://github.com/mir-owahed/prometheus.git
+   40  git status
+   41  cd prometheus
+   42  ls
+   43  git push --set-upstream origin main
+   44  cd ..
+   45  git push --set-upstream origin main
+   46  cd prometheus/
+   47  git status
+   48  git add .
+   49  git push --set-upstream origin main
+   50  git push
+   51  git status
+   52  git add .
+   53  git commit -m "update"
+   54  git push
+   55  ls
+   56  history
+   57  ls
+   58  history >> prometheus_install/git_setup.txt 
+   59  git commit -m "update"
+   60  git -a commit -m "update"
+   61  git add .
+   62  git commit -m "update"
+   63  git push
+   64  ls
+   65  git add .
+   66  git commit -m "update"
+   67  git push
+   68  ls
+   69  mv prometheus_install.txt prometheus_install/
+   70  ls
+   71  git add .
+   72  git push
+   73  git commit -m "install_guide add"
+   74  git push
+   75  history
+   76  cd Downloads/
+   77  ls
+   78  cd prometheus
+   79  ls
+   80  git init
+   81  git status
+   82  ls
+   83  ls -lrt
+   84  git remore -v
+   85  git remote -v
+   86  ls
+   87  mv prometheus_install prometheus_install_ubuntu
+   88  ls
+   89  git status
+   90  cd prometheus_install_ubuntu/
+   91  ls
+   92  cd ..
+   93  ls
+   94  git add prometheus_install_ubuntu/
+   95  git status
+   96  git commit -m "folder name chanhe"
+   97  git commit -m "folder name changed"
+   98  git push
+   99  git pull -v
+  100  code .
+  101  java --version
+  102  history
+  103  code .
+  104  ls
+  105  history
+  106  cd ..
+  107  history
+  108  wget https://dl.grafana.com/oss/release/grafana-10.2.0.linux-amd64.tar.gz
+  109  tar -zxvf grafana-10.2.0.linux-amd64.tar.gz
+  110  ls
+  111  ls -l
+  112  cd Downloads/
+  113  ls
+  114  wget https://dl.grafana.com/oss/release/grafana-10.2.0.linux-amd64.tar.gz
+  115  tar -zxvf grafana-10.2.0.linux-amd64.tar.gz
+  116  ls
+  117  cd grafana-10.2.0/
+  118  ls
+  119  ls -l
+  120  l conf/
+  121  ll conf/
+  122  ll bin/
+  123  ./bin/grafana-server 
+  124  git init
+  125  ls
+  126  git init
+  127  git status
+  128  git add .
+  129  git commit -m "grafana installation command"
+  130  git remote -v
+  131  git remote add origin main https://github.com/mir-owahed/grafana.git
+  132  git remote add origin master https://github.com/mir-owahed/grafana.git
+  133  git remote add origin https://github.com/mir-owahed/grafana.git
+  134  git remote -v
+  135  git push
+  136  git push --set-upstream origin Main
+  137  ls
+  138  git status
+  139  git push --set-upstream origin main
+  140  git remote -v
+  141  git remote add origin https://github.com/mir-owahed/grafana.git
+  142  git push --set-upstream origin main
+  143  git push --set-upstream origin
+  144  pwd
+  145  java --version
+  146  mvn --version
+  147  which java
+  148  which ,aven
+  149  which maven
+  150  where maven
+  151  which mvn
+  152  java path
+  153  ls
+  154  l
+  155  ll
+  156  l
+  157  cd Documents/
+  158  mkdir test
+  159  cd test/
+  160  cd ..
+  161  cd Downloads/
+  162  ls
+  163  history
+  164  ./bin/grafana-server 
+  165  cd grafana-10.2.0/
+  166  history
+  167  ./bin/grafana-server 
+  168  cd
+  169  ls
+  170  cd Documents/
+  171  mkdir grafana
+  172  cd grafana/
+  173  nano grafana_installation_ubuntu
+  174  code .
+  175  ls
+  176  git clone https://github.com/mir-owahed/linux.git
+  177  git init
+  178  git status
+  179  git add .
+  180  git status
+  181  git commit -m "linux command"
+  182  git push origin https://github.com/mir-owahed/linux.git
+  183  git remote add origin https://github.com/mir-owahed/linux.git
+  184  git remote -v
+  185  git push origin main
+  186  git push origin 
+  187  git push --set-upstream origin main
+  188  git push --set-upstream origin
+  189  git push --set-upstream 
+  190  cd Documents/
+  191  ls
+  192  mkdir linux
+  193  cd linux/
+  194  mkdir linux
+  195  hisory > linux_commands.txt
+  196  history > linux_commands.txt
+  197  ls
+  198  code .
+  199  git push origin main
+  200  git init
+  201  git remote -v
+  202  git remote add origin https://github.com/mir-owahed/linux.git
+  203  git remote -v
+  204  git push origin main
+  205  git push origin 
+  206  git push --set-upstream origin main
+  207  git commit -a -m "test"
+  208  git a
+  209  git commit -a -m "test"
+  210  git push --set-upstream origin main
+  211  git remote add origin https://github.com/mir-owahed/linux.git
+  212  git add .
+  213  git commit -m "commands"
+  214  git push origin main
+  215  git push -u origin main
+  216  git status
+  217  git config --global init.defaultBranch main
+  218  git push --set-upstream origin main
+  219  git push --set-upstream origin 
+  220  git push  
+  221  git branch
+  222  git checkout main
+  223  git push -u origin main
+  224  git push -u origin
+  225  git remote add origin main https://github.com/mir-owahed/linux.git
+  226  git remote add -m  main https://github.com/mir-owahed/linux.git
+  227  git remote add -m main https://github.com/mir-owahed/linux.git
+  228  git remote add main https://github.com/mir-owahed/linux.git
+  229  git push -u origin main
+  230  git push
+  231  git remote add origin https://github.com/mir-owahed/linux.git
+  232  git push -u origin main
+  233  git push -u origin
+  234  git push -u 
+  235  git push
+  236  git push --set-upstream origin main
+  237  git push --set-upstream origin
+  238  git branch -M main
+  239  git push -u origin main
+  240  git pull https://github.com/mir-owahed/linux.git
+  241  ls
+  242  git push -u origin main
+  243  git config --global
+  244  git config --global init.defaultBranch main
+  245  git push origin main
+  246  cd ..
+  247  ls
+  248  git clone https://github.com/mir-owahed/linux.git
+  249  cd test/
+  250  git clone https://github.com/mir-owahed/linux.git
+  251  ls
+  252  cd ..
+  253  ls
+  254  cd linux
+  255  ls
+  256  mv linux* test/linux
+  257  cd ..
+  258  cd test/
+  259  ls
+  260  code .
+  261  cd Documents/
+  262  ls
+  263  cd linux/
+  264  ls
+  265  code .
+  266  git remote -v
+  267  git branch -M main
+  268  git push -u origin main
+  269  git init
+  270  cd ..
+  271  ls
+  272  cd linux
+  273  ls
+  274  git init
+  275  ls
+  276  cd linux/
+  277  ls
+  278  cd ..
+  279  git status
+  280  git add .
+  281  git commit -m "end line added"
+  282  git remote -v
+  283  git push -u origin main
+  284  git push --help
+  285  git config --global user.name "Mir Ali" 
+  286  git config --global user.email bachchu333@gmail.com 
+  287  git remote add origin https://github.com/mir-owahed/linux.git
+  288  git push --set-upstream origin main
+  289  git log
+  290  git push --set-upstream origin
+  291  git push --set-upstream origin main
+  292  git config --global --edit
+  293  ls
+  294  cd Documents/
+  295  ls
+  296  cd linux
+  297  ls
+  298  code .
+  299  ls
+  300  cd Downloads/
+  301  ls
+  302  java --version
+  303  ls
+  304  java -jar jenkins.war --httpPort=8080
+  305  docker run -p 8080:8080 -p 50000:50000 --restart=on-failure -v jenkins_home:/var/jenkins_home jenkins/jenkins:lts-jdk17
+  306  docker run -p 8080:8080 -p 50000:50000 --restart=on-failure jenkins/jenkins:lts-jdk17
+  307  su -
+  308  su - 
+  309  sudo cat /var/lib/jenkins/secrets/initialAdminPassword
+  310  su -
+  311  sudo cat /var/lib/jenkins/secrets/initialAdminPassword
+  312  docker ps
+  313  su -
+  314  su - 
+  315  history
+  316  ls
+  317  su
+  318  history
+  319  ls
+  320  cd Documents/
+  321  ls
+  322  cd linux/
+  323  ls
+  324  cd linux/
+  325  ls
+  326  history
+  327  history > linux_command_user.txt

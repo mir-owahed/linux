@@ -1,0 +1,55 @@
+    1  apt update
+    2  apt list --upgradable
+    3  apt install docker io
+    4  apt install docker.io
+    5  docker --version
+    6  apt install nano
+    7  exit
+    8  sudo apt-get install wget gpg
+    9  wget -qO- https://packages.microsoft.com/keys/microsoft.asc | gpg --dearmor > packages.microsoft.gpg
+   10  sudo install -D -o root -g root -m 644 packages.microsoft.gpg /etc/apt/keyrings/packages.microsoft.gpg
+   11  sudo sh -c 'echo "deb [arch=amd64,arm64,armhf signed-by=/etc/apt/keyrings/packages.microsoft.gpg] https://packages.microsoft.com/repos/code stable main" > /etc/apt/sources.list.d/vscode.list'
+   12  rm -f packages.microsoft.gpg
+   13  sudo apt-get install wget gpg
+   14  wget -qO- https://packages.microsoft.com/keys/microsoft.asc | gpg --dearmor > packages.microsoft.gpg
+   15  sudo install -D -o root -g root -m 644 packages.microsoft.gpg /etc/apt/keyrings/packages.microsoft.gpg
+   16  sudo sh -c 'echo "deb [arch=amd64,arm64,armhf signed-by=/etc/apt/keyrings/packages.microsoft.gpg] https://packages.microsoft.com/repos/code stable main" > /etc/apt/sources.list.d/vscode.list'
+   17  rm -f packages.microsoft.gpg
+   18  sudo apt install apt-transport-https
+   19  sudo apt update
+   20  sudo apt install code
+   21  exit
+   22  passwd mir
+   23  exit
+   24  visudo
+   25  EXIT
+   26  exit
+   27  docker run -p 8080:8080 -p 50000:50000 --restart=on-failure -v jenkins_home:/var/jenkins_home jenkins/jenkins:lts-jdk17
+   28  docker ps
+   29  ls
+   30  pwd
+   31  ls
+   32  cd ..
+   33  ls
+   34  cd var/
+   35  ls
+   36  docker run -p 8080:8080 -p 50000:50000 --restart=on-failure -v jenkins_home:/var/jenkins_home jenkins/jenkins:lts-jdk17
+   37  docker stop
+   38  docker stop 7076e0fad4d3
+   39  docker ps
+   40  docker run -p 8080:8080 -p 50000:50000 --restart=on-failure -v jenkins_home:/var/jenkins_home jenkins/jenkins:lts-jdk17
+   41  history
+   42  ls
+   43  cd Documents/
+   44  ls
+   45  history
+   46  ls
+   47  cd linux/
+   48  ls
+   49  cd linux
+   50  ls
+   51  pwd
+   52  ls
+   53  nano linux_commands.txt 
+   54  history
+   55  history > linux_commands_root.txt
