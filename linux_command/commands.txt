@@ -70,3 +70,77 @@
    53  history
    54  ls
    55  history >> commands.txt 
+    1  passwd mir
+    2  sudo apt update
+    3  apt update
+    4  su
+    5  apt update
+    6  sudo apt update
+    7  su
+    8  sudo apt update
+    9  ls
+   10  history > commands.txt
+   11  history
+   12  ls
+   13  mv commands.txt Documents/
+   14  ls
+   15  cd Documents/
+   16  ls
+   17  su
+   18  sudo su
+   19  ls
+   20  git clone https://github.com/mir-owahed/linux.git
+   21  sudo apt install git
+   22  git clone https://github.com/mir-owahed/linux.git
+   23  ls
+   24  mv commands.txt linux/linux_command/
+   25  ls
+   26  cd linux
+   27  ls
+   28  cd linux_command/
+   29  ls
+   30  cd ..
+   31  ls
+   32  cd linux/
+   33  ls
+   34  git status
+   35  git add .
+   36  git status
+   37  git commit -m "1 file added"
+   38  git status
+   39  git remote -v
+   40  git branch -M main
+   41  git push -u origin main
+   42  git log
+   43  cd
+   44  history
+   45  ls
+   46  cd Documents/
+   47  ls
+   48  cd l
+   49  cd linux/
+   50  ls
+   51  cd linux_command/
+   52  ls
+   53  history
+   54  ls
+   55  history >> commands.txt 
+   56  cat commands.txt 
+   57  ls
+   58  cd ..
+   59  ls
+   60  git status
+   61  git add .
+   62  git commit -m "more commands added"
+   63  git config credential.username "mir-owahed"
+   64  git config --global --edit
+   65  git config --global user.name "mir-owahed"
+   66  git config --global --edit
+   67  git config --global user.email bachchu333@gmail.com
+   68  git config --global --edit
+   69  git commit -m "more commands added"
+   70  history
+   71  ls
+   72  cd linux_command/
+   73  ls
+   74  history >> commands.txt 
