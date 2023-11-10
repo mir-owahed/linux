@@ -1,0 +1,17 @@
+    1  passwd mir
+    2  sudo apt update
+    3  apt update
+    4  su
+    5  apt update
+    6  sudo apt update
+    7  su
+    8  sudo apt update
+    9  ls
+   10  history > commands.txt
+    1  adduser mir sudo
+    2  exit
+    3  sudo visudo
+    4  exit
+    5  history
+    6  ls
+    7  history >> commands.txt
