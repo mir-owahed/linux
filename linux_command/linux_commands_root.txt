@@ -53,3 +53,16 @@
    53  nano linux_commands.txt 
    54  history
    55  history > linux_commands_root.txt
+[python hello-world code]
+        python3 -m venv venv
+    9  apt install python3.10-venv
+   10  sudo apt install python3.10-venv
+   11  source venv/bin/activate
+   12  python3 -m venv venv
+   13  source venv/bin/activate
+   14  pip install fastapi
+   15  pip install "uvicorn[standard]"
+   16  uvicorn main:app --reload
+
+Ref: https://fastapi.tiangolo.com/tutorial/
+    https://fastapi.tiangolo.com/tutorial/first-steps/
