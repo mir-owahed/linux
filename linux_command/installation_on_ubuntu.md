@@ -15,4 +15,6 @@
   ls -la
   nano .bashrc 
 [export path=$PATH:/home/mir/nodejs/bin]
+cd
+node -v
     ```
