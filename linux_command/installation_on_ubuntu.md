@@ -17,4 +17,4 @@
 [export PATH=$PATH:/home/mir/nodejs/bin]
 cd
 node -v
-    ```sh
+```sh
