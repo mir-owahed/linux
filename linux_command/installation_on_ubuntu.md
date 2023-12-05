@@ -33,3 +33,4 @@ sudo apt install apt-transport-https
 sudo apt update
 sudo apt install code
 ```
+Reference: [Install vscode on ubuntu](https://code.visualstudio.com/docs/setup/linux)
