@@ -1,5 +1,5 @@
 ## how to install nodejs on ubuntu
-```sh
+```
    cd Downloads/
   ls  
   tar -xf node-v20.10.0-linux-x64.tar.xz 
@@ -17,4 +17,5 @@
 [export PATH=$PATH:/home/mir/nodejs/bin]
 cd
 node -v
-```sh
+npm -v
+```
