@@ -51,3 +51,24 @@ npm init
   node app.js
   npm run start
 ```
+
+```
+{
+  "name": "nodejs-helloworld",
+  "version": "1.0.0",
+  "description": "This is my 1st nodejs code!!!!!!!!!",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "author": "mir-owahed-ali",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
+```
