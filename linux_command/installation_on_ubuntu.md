@@ -51,7 +51,7 @@ npm init
   node app.js
   npm run start
 ```
-
+#### packaje.json snippet
 ```
 {
   "name": "nodejs-helloworld",
