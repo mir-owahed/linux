@@ -77,7 +77,7 @@ Reference: [app.js](https://expressjs.com/en/starter/hello-world.html)
 ## How to create python virtual environment
 ```
 sudo apt install python3.10-venv
-sudo apt install pip3-python
+sudo apt install python3-pip
 python -m venv venv
 code .
 source venv/bin/activate
