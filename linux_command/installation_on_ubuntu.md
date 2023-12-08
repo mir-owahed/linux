@@ -34,3 +34,20 @@ sudo apt update
 sudo apt install code
 ```
 Reference: [Install vscode on ubuntu](https://code.visualstudio.com/docs/setup/linux)
+
+
+## How to write 1st nodejs code 
+
+```
+
+mkdir nodejs-helloWorld
+cd nodejs-helloWorld/
+code .
+npm init
+  npm i express
+  npm i nodemon -D
+  npm start
+  npm run dev
+  node app.js
+  npm run start
+```
