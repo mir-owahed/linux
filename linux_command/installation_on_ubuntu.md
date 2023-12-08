@@ -91,6 +91,7 @@ source venv/bin/activate
 pip install fastapi
 pip install "uvicorn[standard]"
 uvicorn main:app --reload
+
 ```
 Reference: [fastapi](https://fastapi.tiangolo.com/tutorial/first-steps/)
 
