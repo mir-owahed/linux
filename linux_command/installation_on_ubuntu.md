@@ -84,5 +84,13 @@ sudo apt install python3-pip
 python -m venv venv
 code .
 source venv/bin/activate
+```
+## How to create fastapi
+pip install fastapi
+pip install "uvicorn[standard]"
+uvicorn main:app --reload
+```
+Reference: [fastapi](https://fastapi.tiangolo.com/tutorial/first-steps/)
+
 
 
