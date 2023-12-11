@@ -79,11 +79,11 @@ Reference: [app.js](https://expressjs.com/en/starter/hello-world.html)
 cd
 nano .bashrc
 [alias python=python3
-sudo apt install python3.10-venv
+sudo apt install python3.10-venv 
 sudo apt install python3-pip
-python -m venv venv
+python3 -m venv env [last env is the name of the virtual environment]
 code .
-source venv/bin/activate
+source env/bin/activate
 ```
 ## How to create fastapi
 
