@@ -108,4 +108,3 @@ This document details the steps to install Node.js Long-Term Support (LTS) versi
 I hope this documentation helps you successfully install and use Node.js LTS on your system!
 ```
 
-Save this content in a file with the `.md` extension, such as `install_node_lts.md`.
