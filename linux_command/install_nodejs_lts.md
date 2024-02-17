@@ -1,4 +1,3 @@
-Sure, here's the content rewritten in Markdown format:
 
 ```markdown
 # Documentation: Installing Node.js LTS using Downloaded Tarball
