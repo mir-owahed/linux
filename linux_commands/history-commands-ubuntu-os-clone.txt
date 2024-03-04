@@ -1,0 +1,43 @@
+    1  su -
+    2  sudo apt update
+    3  su -
+    4  sudo su -
+    5  su -
+    6  sudo apt update
+    7  python -m venv venv
+    8  python3 -m venv venv
+    9  apt install python3.10-venv
+   10  sudo apt install python3.10-venv
+   11  source venv/bin/activate
+   12  python3 -m venv venv
+   13  source venv/bin/activate
+   14  pip install fastapi
+   15  pip install "uvicorn[standard]"
+   16  uvicorn main:app --reload
+   17  ls
+   18  history
+   19  uvicorn main:app --reload
+   20  pip install "uvicorn[standard]"
+   21  source venv/bin/activate
+   22  pip install "uvicorn[standard]"
+   23  uvicorn main:app --reload
+   24  cd Documents/
+   25  ls
+   26  cd python-test/
+   27  ls
+   28  cd ..
+   29  ls
+   30  mkdir nodejs
+   31  ls
+   32  cd nodejs/
+   33  code .
+   34  su -
+   35  sudo apt update
+   36  history
+   37  git clone https://github.com/mir-owahed/linux
+   38  ls
+   39  cd linux
+   40  ls
+   41  cd ..
+   42  ls
+   43  history > history-commands-ubuntu-os-clone.txt
