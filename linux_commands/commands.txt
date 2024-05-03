@@ -144,3 +144,9 @@
    72  cd linux_command/
    73  ls
    74  history >> commands.txt 
+## Make a user to sudo user
+```
+su -
+sudo visudo
+```
+
